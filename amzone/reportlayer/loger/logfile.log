@@ -1,0 +1,42 @@
+2017-03-04 08:47:01,674 INFO  [AmzoneHomePageAbstrat] move to locater of you oder! 
+2017-03-04 08:47:02,054 INFO  [AmzoneHomePageAbstrat] succ to move mouse on you oder locater. 
+2017-03-04 08:47:02,486 INFO  [AmzoneHomePageAbstrat] click sign in button of amzone webpage 
+2017-03-04 08:47:02,486 INFO  [AmzoneHomePageAbstrat] findout page of login is displaying or not? 
+2017-03-04 08:47:03,794 WARN  [AmzoneHomePageAbstrat] org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//h1[@class='a-spacing-small']"}
+Command duration or timeout: 1.25 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'Tapanas-MacBook-Pro.local', ip: '192.168.0.101', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.3', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=40.0, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 810cae5c-b81c-fb46-b750-e2701c461ad4
+*** Element info: {Using=xpath, value=//h1[@class='a-spacing-small']} 
+2017-03-04 08:47:13,806 WARN  [AmzoneHomePageAbstrat] get exception in signinAmzone 
+2017-03-04 08:49:39,637 INFO  [AmzoneHomePageAbstrat] move to locater of you oder! 
+2017-03-04 08:49:40,245 INFO  [AmzoneHomePageAbstrat] succ to move mouse on you oder locater. 
+2017-03-04 08:49:40,677 INFO  [AmzoneHomePageAbstrat] click sign in button of amzone webpage 
+2017-03-04 08:49:40,677 INFO  [AmzoneHomePageAbstrat] findout page of login is displaying or not? 
+2017-03-04 08:49:42,730 WARN  [AmzoneHomePageAbstrat] org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//h1[@class='a-spacing-small']"}
+Command duration or timeout: 1.94 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'Tapanas-MacBook-Pro.local', ip: '192.168.0.101', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.3', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=40.0, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b9b1e2ce-866a-7a42-a4a4-59ad99fdd63e
+*** Element info: {Using=xpath, value=//h1[@class='a-spacing-small']} 
+2017-03-04 08:49:52,787 WARN  [AmzoneHomePageAbstrat] get exception in signinAmzone 
+2017-03-04 09:30:23,666 INFO  [AmzoneHomePageAbstrat] move to locater of you oder! 
+2017-03-04 09:30:23,942 INFO  [AmzoneHomePageAbstrat] succ to move mouse on you oder locater. 
+2017-03-04 09:30:24,321 INFO  [AmzoneHomePageAbstrat] click sign in button of amzone webpage 
+2017-03-04 09:30:24,322 INFO  [AmzoneHomePageAbstrat] findout page of login is displaying or not? 
+2017-03-04 09:30:25,271 WARN  [AmzoneHomePageAbstrat] org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//h1[@class='a-spacing-small']"}
+Command duration or timeout: 915 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'Tapanas-MacBook-Pro.local', ip: '192.168.0.101', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.3', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=40.0, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: f6a4924e-d2cf-c84f-9c0c-67ca165e119e
+*** Element info: {Using=xpath, value=//h1[@class='a-spacing-small']} 
+2017-03-04 09:30:35,298 WARN  [AmzoneHomePageAbstrat] get exception in signinAmzone 

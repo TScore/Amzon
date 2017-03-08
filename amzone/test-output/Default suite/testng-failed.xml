@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.amzone.automationScript.Amzone_HomePage_LoginTest">
+        <methods>
+          <include name="loadLocater"/>
+          <include name="closeBrowser"/>
+          <include name="Amzone_HomePage_LoginTest01"/>
+          <include name="setScreenshot"/>
+          <include name="startBrowser"/>
+        </methods>
+      </class> <!-- com.amzone.automationScript.Amzone_HomePage_LoginTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

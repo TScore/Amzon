@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="atu.testng.reports.listeners.ATUReportsListener"/>
+    <listener class-name="atu.testng.reports.listeners.ConfigurationListener"/>
+    <listener class-name="atu.testng.reports.listeners.MethodListener"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.amzone.automationScript.Amzone_HomePage_LoginTest">
+        <methods>
+          <include name="loadLocater"/>
+          <include name="closeBrowser"/>
+          <include name="Amzone_HomePage_LoginTest01"/>
+          <include name="setScreenshot"/>
+          <include name="startBrowser"/>
+        </methods>
+      </class> <!-- com.amzone.automationScript.Amzone_HomePage_LoginTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
