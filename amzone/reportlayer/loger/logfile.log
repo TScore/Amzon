@@ -82,3 +82,185 @@ Session ID: f6a4924e-d2cf-c84f-9c0c-67ca165e119e
 2017-03-08 21:10:57,406 INFO  [AmzoneHomePageAbstrat] password  label is present or not 
 2017-03-08 21:10:57,852 INFO  [AmzoneHomePageAbstrat] send password value to password eddit pages 
 2017-03-08 21:11:02,693 INFO  [AmzoneHomePageAbstrat] click sighIn buttion! 
+2017-03-08 22:51:24,335 INFO  [AmzoneHomePageAbstrat] move to locater of you oder! 
+2017-03-08 22:51:25,235 INFO  [AmzoneHomePageAbstrat] succ to move mouse on you oder locater. 
+2017-03-08 22:51:26,762 INFO  [AmzoneHomePageAbstrat] click sign in button of amzone webpage 
+2017-03-08 22:51:26,762 INFO  [AmzoneHomePageAbstrat] findout page of login is displaying or not? 
+2017-03-08 22:51:28,070 INFO  [AmzoneHomePageAbstrat] Login page>log in label is :Login 
+2017-03-08 22:51:28,071 INFO  [AmzoneHomePageAbstrat] comper excepted and actual value 
+2017-03-08 22:51:28,073 INFO  [AmzoneHomePageAbstrat] excepted and actual value sucessfuly comper 
+2017-03-08 22:51:28,073 INFO  [AmzoneHomePageAbstrat] comper email id label is present or not 
+2017-03-08 22:51:28,099 INFO  [AmzoneHomePageAbstrat] emailIdLabel name is:Email or mobile phone number 
+2017-03-08 22:51:28,099 INFO  [AmzoneHomePageAbstrat] email id label >excepted and actual value sucessfuly comper 
+2017-03-08 22:51:28,495 INFO  [AmzoneHomePageAbstrat] send user email adress to amzone! 
+2017-03-08 22:51:28,495 INFO  [AmzoneHomePageAbstrat] password  label is present or not 
+2017-03-08 22:51:28,868 INFO  [AmzoneHomePageAbstrat] send password value to password eddit pages 
+2017-03-08 22:51:32,986 INFO  [AmzoneHomePageAbstrat] click sighIn buttion! 
+2017-03-09 00:05:39,087 INFO  [AmzoneHomePageAbstrat] move to locater of you oder! 
+2017-03-09 00:05:39,441 INFO  [AmzoneHomePageAbstrat] succ to move mouse on you oder locater. 
+2017-03-09 00:05:39,883 INFO  [AmzoneHomePageAbstrat] click sign in button of amzone webpage 
+2017-03-09 00:05:39,883 INFO  [AmzoneHomePageAbstrat] findout page of login is displaying or not? 
+2017-03-09 00:05:41,281 WARN  [AmzoneHomePageAbstrat] org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//h1[@class='a-spacing-small']"}
+Command duration or timeout: 1.28 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'Tapanas-MacBook-Pro.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.3', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=40.0, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 3c3c8a1b-77bc-5d4c-bd62-db8d22154f64
+*** Element info: {Using=xpath, value=//h1[@class='a-spacing-small']} 
+2017-03-09 00:05:51,398 WARN  [AmzoneHomePageAbstrat] get exception in signinAmzone 
+2017-03-09 00:06:33,693 INFO  [AmzoneHomePageAbstrat] move to locater of you oder! 
+2017-03-09 00:06:34,095 INFO  [AmzoneHomePageAbstrat] succ to move mouse on you oder locater. 
+2017-03-09 00:06:34,378 INFO  [AmzoneHomePageAbstrat] click sign in button of amzone webpage 
+2017-03-09 00:06:34,378 INFO  [AmzoneHomePageAbstrat] findout page of login is displaying or not? 
+2017-03-09 00:06:35,830 INFO  [AmzoneHomePageAbstrat] Login page>log in label is :Login 
+2017-03-09 00:06:35,830 INFO  [AmzoneHomePageAbstrat] comper excepted and actual value 
+2017-03-09 00:06:35,852 INFO  [AmzoneHomePageAbstrat] excepted and actual value sucessfuly comper 
+2017-03-09 00:06:35,852 INFO  [AmzoneHomePageAbstrat] comper email id label is present or not 
+2017-03-09 00:06:35,882 INFO  [AmzoneHomePageAbstrat] emailIdLabel name is:Email or mobile phone number 
+2017-03-09 00:06:35,882 INFO  [AmzoneHomePageAbstrat] email id label >excepted and actual value sucessfuly comper 
+2017-03-09 00:06:36,210 INFO  [AmzoneHomePageAbstrat] send user email adress to amzone! 
+2017-03-09 00:06:36,210 INFO  [AmzoneHomePageAbstrat] password  label is present or not 
+2017-03-09 00:06:36,602 INFO  [AmzoneHomePageAbstrat] send password value to password eddit pages 
+2017-03-09 00:06:48,860 INFO  [AmzoneHomePageAbstrat] click sighIn buttion! 
+2017-03-09 00:21:27,045 INFO  [AmzoneHomePageAbstrat] move to locater of you oder! 
+2017-03-09 00:21:27,375 INFO  [AmzoneHomePageAbstrat] succ to move mouse on you oder locater. 
+2017-03-09 00:21:27,923 INFO  [AmzoneHomePageAbstrat] click sign in button of amzone webpage 
+2017-03-09 00:21:27,923 INFO  [AmzoneHomePageAbstrat] findout page of login is displaying or not? 
+2017-03-09 00:21:29,432 INFO  [AmzoneHomePageAbstrat] Login page>log in label is :Login 
+2017-03-09 00:21:29,432 INFO  [AmzoneHomePageAbstrat] comper excepted and actual value 
+2017-03-09 00:21:29,453 INFO  [AmzoneHomePageAbstrat] excepted and actual value sucessfuly comper 
+2017-03-09 00:21:29,453 INFO  [AmzoneHomePageAbstrat] comper email id label is present or not 
+2017-03-09 00:21:29,479 INFO  [AmzoneHomePageAbstrat] emailIdLabel name is:Email or mobile phone number 
+2017-03-09 00:21:29,479 INFO  [AmzoneHomePageAbstrat] email id label >excepted and actual value sucessfuly comper 
+2017-03-09 00:21:29,714 INFO  [AmzoneHomePageAbstrat] send user email adress to amzone! 
+2017-03-09 00:21:29,714 INFO  [AmzoneHomePageAbstrat] password  label is present or not 
+2017-03-09 00:21:30,204 INFO  [AmzoneHomePageAbstrat] send password value to password eddit pages 
+2017-03-09 00:21:37,264 INFO  [AmzoneHomePageAbstrat] click sighIn buttion! 
+2017-03-09 00:24:29,569 INFO  [AmzoneHomePageAbstrat] move to locater of you oder! 
+2017-03-09 00:24:32,102 INFO  [AmzoneHomePageAbstrat] succ to move mouse on you oder locater. 
+2017-03-09 00:24:35,591 INFO  [AmzoneHomePageAbstrat] click sign in button of amzone webpage 
+2017-03-09 00:24:35,591 INFO  [AmzoneHomePageAbstrat] findout page of login is displaying or not? 
+2017-03-09 00:24:41,473 WARN  [AmzoneHomePageAbstrat] org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//h1[@class='a-spacing-small']"}
+Command duration or timeout: 5.81 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'Tapanas-MacBook-Pro.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.3', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=40.0, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 396b3472-3cbf-0a49-8891-424e3e1bf023
+*** Element info: {Using=xpath, value=//h1[@class='a-spacing-small']} 
+2017-03-09 00:24:51,722 WARN  [AmzoneHomePageAbstrat] get exception in signinAmzone 
+2017-03-09 00:32:54,955 INFO  [AmzoneHomePageAbstrat] move to locater of you oder! 
+2017-03-09 00:32:55,337 INFO  [AmzoneHomePageAbstrat] succ to move mouse on you oder locater. 
+2017-03-09 00:32:55,630 INFO  [AmzoneHomePageAbstrat] click sign in button of amzone webpage 
+2017-03-09 00:32:55,630 INFO  [AmzoneHomePageAbstrat] findout page of login is displaying or not? 
+2017-03-09 00:32:57,249 INFO  [AmzoneHomePageAbstrat] Login page>log in label is :Login 
+2017-03-09 00:32:57,250 INFO  [AmzoneHomePageAbstrat] comper excepted and actual value 
+2017-03-09 00:32:57,273 INFO  [AmzoneHomePageAbstrat] excepted and actual value sucessfuly comper 
+2017-03-09 00:32:57,273 INFO  [AmzoneHomePageAbstrat] comper email id label is present or not 
+2017-03-09 00:32:57,301 INFO  [AmzoneHomePageAbstrat] emailIdLabel name is:Email or mobile phone number 
+2017-03-09 00:32:57,301 INFO  [AmzoneHomePageAbstrat] email id label >excepted and actual value sucessfuly comper 
+2017-03-09 00:32:57,586 INFO  [AmzoneHomePageAbstrat] send user email adress to amzone! 
+2017-03-09 00:32:57,586 INFO  [AmzoneHomePageAbstrat] password  label is present or not 
+2017-03-09 00:32:57,935 INFO  [AmzoneHomePageAbstrat] send password value to password eddit pages 
+2017-03-09 00:33:04,465 INFO  [AmzoneHomePageAbstrat] click sighIn buttion! 
+2017-03-09 00:39:14,747 INFO  [AmzoneHomePageAbstrat] move to locater of you oder! 
+2017-03-09 00:39:15,290 INFO  [AmzoneHomePageAbstrat] succ to move mouse on you oder locater. 
+2017-03-09 00:39:15,533 INFO  [AmzoneHomePageAbstrat] click sign in button of amzone webpage 
+2017-03-09 00:39:15,533 INFO  [AmzoneHomePageAbstrat] findout page of login is displaying or not? 
+2017-03-09 00:39:16,742 INFO  [AmzoneHomePageAbstrat] Login page>log in label is :Login 
+2017-03-09 00:39:16,742 INFO  [AmzoneHomePageAbstrat] comper excepted and actual value 
+2017-03-09 00:39:16,766 INFO  [AmzoneHomePageAbstrat] excepted and actual value sucessfuly comper 
+2017-03-09 00:39:16,766 INFO  [AmzoneHomePageAbstrat] comper email id label is present or not 
+2017-03-09 00:39:16,791 INFO  [AmzoneHomePageAbstrat] emailIdLabel name is:Email or mobile phone number 
+2017-03-09 00:39:16,791 INFO  [AmzoneHomePageAbstrat] email id label >excepted and actual value sucessfuly comper 
+2017-03-09 00:39:17,110 INFO  [AmzoneHomePageAbstrat] send user email adress to amzone! 
+2017-03-09 00:39:17,110 INFO  [AmzoneHomePageAbstrat] password  label is present or not 
+2017-03-09 00:39:17,519 INFO  [AmzoneHomePageAbstrat] send password value to password eddit pages 
+2017-03-09 00:39:23,982 INFO  [AmzoneHomePageAbstrat] click sighIn buttion! 
+2017-03-09 01:22:46,295 INFO  [AmzoneHomePageAbstrat] move to locater of you oder! 
+2017-03-09 01:22:48,356 INFO  [AmzoneHomePageAbstrat] succ to move mouse on you oder locater. 
+2017-03-09 01:22:48,880 INFO  [AmzoneHomePageAbstrat] click sign in button of amzone webpage 
+2017-03-09 01:22:48,880 INFO  [AmzoneHomePageAbstrat] findout page of login is displaying or not? 
+2017-03-09 01:22:50,899 INFO  [AmzoneHomePageAbstrat] Login page>log in label is :Login 
+2017-03-09 01:22:50,899 INFO  [AmzoneHomePageAbstrat] comper excepted and actual value 
+2017-03-09 01:22:50,934 INFO  [AmzoneHomePageAbstrat] excepted and actual value sucessfuly comper 
+2017-03-09 01:22:50,934 INFO  [AmzoneHomePageAbstrat] comper email id label is present or not 
+2017-03-09 01:22:50,984 INFO  [AmzoneHomePageAbstrat] emailIdLabel name is:Email or mobile phone number 
+2017-03-09 01:22:50,985 INFO  [AmzoneHomePageAbstrat] email id label >excepted and actual value sucessfuly comper 
+2017-03-09 01:22:51,251 INFO  [AmzoneHomePageAbstrat] send user email adress to amzone! 
+2017-03-09 01:22:51,251 INFO  [AmzoneHomePageAbstrat] password  label is present or not 
+2017-03-09 01:22:51,671 INFO  [AmzoneHomePageAbstrat] send password value to password eddit pages 
+2017-03-09 01:22:57,255 INFO  [AmzoneHomePageAbstrat] click sighIn buttion! 
+2017-03-09 01:24:13,321 INFO  [AmzoneHomePageAbstrat] move to locater of you oder! 
+2017-03-09 01:24:13,660 INFO  [AmzoneHomePageAbstrat] succ to move mouse on you oder locater. 
+2017-03-09 01:24:13,871 INFO  [AmzoneHomePageAbstrat] click sign in button of amzone webpage 
+2017-03-09 01:24:13,871 INFO  [AmzoneHomePageAbstrat] findout page of login is displaying or not? 
+2017-03-09 01:24:15,047 INFO  [AmzoneHomePageAbstrat] Login page>log in label is :Login 
+2017-03-09 01:24:15,047 INFO  [AmzoneHomePageAbstrat] comper excepted and actual value 
+2017-03-09 01:24:15,049 INFO  [AmzoneHomePageAbstrat] excepted and actual value sucessfuly comper 
+2017-03-09 01:24:15,050 INFO  [AmzoneHomePageAbstrat] comper email id label is present or not 
+2017-03-09 01:24:15,073 INFO  [AmzoneHomePageAbstrat] emailIdLabel name is:Email or mobile phone number 
+2017-03-09 01:24:15,073 INFO  [AmzoneHomePageAbstrat] email id label >excepted and actual value sucessfuly comper 
+2017-03-09 01:24:15,245 INFO  [AmzoneHomePageAbstrat] send user email adress to amzone! 
+2017-03-09 01:24:15,245 INFO  [AmzoneHomePageAbstrat] password  label is present or not 
+2017-03-09 01:24:15,642 INFO  [AmzoneHomePageAbstrat] send password value to password eddit pages 
+2017-03-09 01:24:21,252 INFO  [AmzoneHomePageAbstrat] click sighIn buttion! 
+2017-03-09 02:23:22,477 INFO  [AmzoneHomePageAbstrat] move to locater of you oder! 
+2017-03-09 02:23:23,267 INFO  [AmzoneHomePageAbstrat] succ to move mouse on you oder locater. 
+2017-03-09 02:23:23,620 INFO  [AmzoneHomePageAbstrat] click sign in button of amzone webpage 
+2017-03-09 02:23:23,621 INFO  [AmzoneHomePageAbstrat] findout page of login is displaying or not? 
+2017-03-09 02:23:25,159 INFO  [AmzoneHomePageAbstrat] Login page>log in label is :Login 
+2017-03-09 02:23:25,159 INFO  [AmzoneHomePageAbstrat] comper excepted and actual value 
+2017-03-09 02:23:25,185 INFO  [AmzoneHomePageAbstrat] excepted and actual value sucessfuly comper 
+2017-03-09 02:23:25,185 INFO  [AmzoneHomePageAbstrat] comper email id label is present or not 
+2017-03-09 02:23:25,219 INFO  [AmzoneHomePageAbstrat] emailIdLabel name is:Email or mobile phone number 
+2017-03-09 02:23:25,219 INFO  [AmzoneHomePageAbstrat] email id label >excepted and actual value sucessfuly comper 
+2017-03-09 02:23:25,535 INFO  [AmzoneHomePageAbstrat] send user email adress to amzone! 
+2017-03-09 02:23:25,536 INFO  [AmzoneHomePageAbstrat] password  label is present or not 
+2017-03-09 02:23:25,836 INFO  [AmzoneHomePageAbstrat] send password value to password eddit pages 
+2017-03-09 02:23:31,585 INFO  [AmzoneHomePageAbstrat] click sighIn buttion! 
+2017-03-09 02:24:51,632 INFO  [AmzoneHomePageAbstrat] move to locater of you oder! 
+2017-03-09 02:24:52,236 INFO  [AmzoneHomePageAbstrat] succ to move mouse on you oder locater. 
+2017-03-09 02:24:52,829 INFO  [AmzoneHomePageAbstrat] click sign in button of amzone webpage 
+2017-03-09 02:24:52,830 INFO  [AmzoneHomePageAbstrat] findout page of login is displaying or not? 
+2017-03-09 02:24:53,833 WARN  [AmzoneHomePageAbstrat] org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//h1[@class='a-spacing-small']"}
+Command duration or timeout: 936 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'Tapanas-MacBook-Pro.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.3', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=40.0, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 617edfc5-6322-714e-9c3f-f0f653f411b9
+*** Element info: {Using=xpath, value=//h1[@class='a-spacing-small']} 
+2017-03-09 02:25:03,904 WARN  [AmzoneHomePageAbstrat] get exception in signinAmzone 
+2017-03-09 07:50:52,890 INFO  [AmzoneHomePageAbstrat] move to locater of you oder! 
+2017-03-09 07:50:53,255 INFO  [AmzoneHomePageAbstrat] succ to move mouse on you oder locater. 
+2017-03-09 07:50:53,563 INFO  [AmzoneHomePageAbstrat] click sign in button of amzone webpage 
+2017-03-09 07:50:53,563 INFO  [AmzoneHomePageAbstrat] findout page of login is displaying or not? 
+2017-03-09 07:50:54,543 WARN  [AmzoneHomePageAbstrat] org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//h1[@class='a-spacing-small']"}
+Command duration or timeout: 910 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'Tapanas-MacBook-Pro.local', ip: '192.168.0.102', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.3', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=40.0, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 7d5cd11c-0962-5547-8af6-1ab20b8f1b61
+*** Element info: {Using=xpath, value=//h1[@class='a-spacing-small']} 
+2017-03-09 07:51:04,663 WARN  [AmzoneHomePageAbstrat] get exception in signinAmzone 
+2017-03-09 09:19:30,588 INFO  [AmzoneHomePageAbstrat] move to locater of you oder! 
+2017-03-09 09:19:30,962 INFO  [AmzoneHomePageAbstrat] succ to move mouse on you oder locater. 
+2017-03-09 09:19:31,360 INFO  [AmzoneHomePageAbstrat] click sign in button of amzone webpage 
+2017-03-09 09:19:31,360 INFO  [AmzoneHomePageAbstrat] findout page of login is displaying or not? 
+2017-03-09 09:19:33,740 INFO  [AmzoneHomePageAbstrat] Login page>log in label is :Login 
+2017-03-09 09:19:33,740 INFO  [AmzoneHomePageAbstrat] comper excepted and actual value 
+2017-03-09 09:19:33,781 INFO  [AmzoneHomePageAbstrat] excepted and actual value sucessfuly comper 
+2017-03-09 09:19:33,781 INFO  [AmzoneHomePageAbstrat] comper email id label is present or not 
+2017-03-09 09:19:33,858 INFO  [AmzoneHomePageAbstrat] emailIdLabel name is:Email or mobile phone number 
+2017-03-09 09:19:33,858 INFO  [AmzoneHomePageAbstrat] email id label >excepted and actual value sucessfuly comper 
+2017-03-09 09:19:34,666 INFO  [AmzoneHomePageAbstrat] send user email adress to amzone! 
+2017-03-09 09:19:34,666 INFO  [AmzoneHomePageAbstrat] password  label is present or not 
+2017-03-09 09:19:35,497 INFO  [AmzoneHomePageAbstrat] send password value to password eddit pages 
+2017-03-09 09:19:41,047 INFO  [AmzoneHomePageAbstrat] click sighIn buttion! 

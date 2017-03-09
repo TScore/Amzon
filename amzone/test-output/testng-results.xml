@@ -29,10 +29,10 @@
       <![CDATA[click sighIn buttion!]]>
     </line>
     <line>
-      <![CDATA[<a href="/Users/tapanakumarbadhai/git/amzone/amzone/target/surefire-reports/screenShots/03-08-2017_10.11.03_regisater.png"><p align="left">Error screenshot at </p>]]>
+      <![CDATA[<a href="/Users/tapanakumarbadhai/git/amzone/amzone/target/surefire-reports/screenShots/03-09-2017_12.21.42_regisater.png"><p align="left">Error screenshot at </p>]]>
     </line>
     <line>
-      <![CDATA[<p><img width="250" src="/Users/tapanakumarbadhai/git/amzone/amzone/target/surefire-reports/screenShots/03-08-2017_10.11.03_regisater.png" alt="screenshot at Wed Mar 08 10:11:03 IST 2017"/></p></a><br />]]>
+      <![CDATA[<p><img width="250" src="/Users/tapanakumarbadhai/git/amzone/amzone/target/surefire-reports/screenShots/03-09-2017_12.21.42_regisater.png" alt="screenshot at Thu Mar 09 00:21:42 IST 2017"/></p></a><br />]]>
     </line>
     <line>
       <![CDATA[Completed executing following method : Amzone_HomePage_LoginTest.Amzone_HomePage_LoginTest01]]>
@@ -56,26 +56,19 @@
       <![CDATA[Completed executing following method : Amzone_HomePage_LoginTest.closeBrowser]]>
     </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="47836" started-at="2017-03-08T04:40:15Z" finished-at="2017-03-08T04:41:03Z">
+  <suite name="Suite" duration-ms="50200" started-at="2017-03-08T18:50:52Z" finished-at="2017-03-08T18:51:42Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="47836" started-at="2017-03-08T04:40:15Z" finished-at="2017-03-08T04:41:03Z">
+    <test name="Test" duration-ms="50200" started-at="2017-03-08T18:50:52Z" finished-at="2017-03-08T18:51:42Z">
       <class name="com.amzone.automationScript.Amzone_HomePage_LoginTest">
-        <test-method status="PASS" signature="startBrowser()[pri:0, instance:com.amzone.automationScript.Amzone_HomePage_LoginTest@369f73a2]" name="startBrowser" is-config="true" duration-ms="33873" started-at="2017-03-08T10:10:15Z" finished-at="2017-03-08T10:10:49Z">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:com.amzone.automationScript.Amzone_HomePage_LoginTest@67784306]" name="startBrowser" is-config="true" duration-ms="34312" started-at="2017-03-09T00:20:52Z" finished-at="2017-03-09T00:21:26Z">
           <reporter-output>
             <line>
               <![CDATA[Completed executing following method : Amzone_HomePage_LoginTest.startBrowser]]>
             </line>
           </reporter-output>
         </test-method> <!-- startBrowser -->
-        <test-method status="PASS" signature="loadLocater()[pri:0, instance:com.amzone.automationScript.Amzone_HomePage_LoginTest@369f73a2]" name="loadLocater" is-config="true" duration-ms="1" started-at="2017-03-08T10:10:49Z" finished-at="2017-03-08T10:10:49Z">
-          <reporter-output>
-            <line>
-              <![CDATA[Completed executing following method : Amzone_HomePage_LoginTest.loadLocater]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- loadLocater -->
-        <test-method status="PASS" signature="Amzone_HomePage_LoginTest01()[pri:0, instance:com.amzone.automationScript.Amzone_HomePage_LoginTest@369f73a2]" name="Amzone_HomePage_LoginTest01" duration-ms="13476" started-at="2017-03-08T10:10:49Z" finished-at="2017-03-08T10:11:03Z">
+        <test-method status="PASS" signature="Amzone_HomePage_LoginTest01()[pri:0, instance:com.amzone.automationScript.Amzone_HomePage_LoginTest@67784306]" name="Amzone_HomePage_LoginTest01" duration-ms="15436" started-at="2017-03-09T00:21:26Z" finished-at="2017-03-09T00:21:42Z">
           <reporter-output>
             <line>
               <![CDATA[About to begin executing following method : Amzone_HomePage_LoginTest.Amzone_HomePage_LoginTest01]]>
@@ -87,10 +80,10 @@
               <![CDATA[click sighIn buttion!]]>
             </line>
             <line>
-              <![CDATA[<a href="/Users/tapanakumarbadhai/git/amzone/amzone/target/surefire-reports/screenShots/03-08-2017_10.11.03_regisater.png"><p align="left">Error screenshot at </p>]]>
+              <![CDATA[<a href="/Users/tapanakumarbadhai/git/amzone/amzone/target/surefire-reports/screenShots/03-09-2017_12.21.42_regisater.png"><p align="left">Error screenshot at </p>]]>
             </line>
             <line>
-              <![CDATA[<p><img width="250" src="/Users/tapanakumarbadhai/git/amzone/amzone/target/surefire-reports/screenShots/03-08-2017_10.11.03_regisater.png" alt="screenshot at Wed Mar 08 10:11:03 IST 2017"/></p></a><br />]]>
+              <![CDATA[<p><img width="250" src="/Users/tapanakumarbadhai/git/amzone/amzone/target/surefire-reports/screenShots/03-09-2017_12.21.42_regisater.png" alt="screenshot at Thu Mar 09 00:21:42 IST 2017"/></p></a><br />]]>
             </line>
             <line>
               <![CDATA[Completed executing following method : Amzone_HomePage_LoginTest.Amzone_HomePage_LoginTest01]]>
@@ -106,11 +99,18 @@
             </line>
           </reporter-output>
         </test-method> <!-- Amzone_HomePage_LoginTest01 -->
-        <test-method status="PASS" signature="setScreenshot(org.testng.ITestResult)[pri:0, instance:com.amzone.automationScript.Amzone_HomePage_LoginTest@369f73a2]" name="setScreenshot" is-config="true" duration-ms="2" started-at="2017-03-08T10:11:03Z" finished-at="2017-03-08T10:11:03Z">
+        <test-method status="PASS" signature="loadLocater()[pri:0, instance:com.amzone.automationScript.Amzone_HomePage_LoginTest@67784306]" name="loadLocater" is-config="true" duration-ms="0" started-at="2017-03-09T00:21:26Z" finished-at="2017-03-09T00:21:26Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : Amzone_HomePage_LoginTest.loadLocater]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loadLocater -->
+        <test-method status="PASS" signature="setScreenshot(org.testng.ITestResult)[pri:0, instance:com.amzone.automationScript.Amzone_HomePage_LoginTest@67784306]" name="setScreenshot" is-config="true" duration-ms="1" started-at="2017-03-09T00:21:42Z" finished-at="2017-03-09T00:21:42Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=Amzone_HomePage_LoginTest01 status=SUCCESS method=Amzone_HomePage_LoginTest.Amzone_HomePage_LoginTest01()[pri:0, instance:com.amzone.automationScript.Amzone_HomePage_LoginTest@369f73a2] output=About to begin executing following method : Amzone_HomePage_LoginTest.Amzone_HomePage_LoginTest01]]]>
+                <![CDATA[[TestResult name=Amzone_HomePage_LoginTest01 status=SUCCESS method=Amzone_HomePage_LoginTest.Amzone_HomePage_LoginTest01()[pri:0, instance:com.amzone.automationScript.Amzone_HomePage_LoginTest@67784306] output=About to begin executing following method : Amzone_HomePage_LoginTest.Amzone_HomePage_LoginTest01]]]>
               </value>
             </param>
           </params>
@@ -120,7 +120,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- setScreenshot -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.amzone.automationScript.Amzone_HomePage_LoginTest@369f73a2]" name="closeBrowser" is-config="true" duration-ms="291" started-at="2017-03-08T10:11:03Z" finished-at="2017-03-08T10:11:03Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.amzone.automationScript.Amzone_HomePage_LoginTest@67784306]" name="closeBrowser" is-config="true" duration-ms="421" started-at="2017-03-09T00:21:42Z" finished-at="2017-03-09T00:21:42Z">
           <reporter-output>
             <line>
               <![CDATA[Completed executing following method : Amzone_HomePage_LoginTest.closeBrowser]]>
