@@ -264,3 +264,14 @@ Session ID: 7d5cd11c-0962-5547-8af6-1ab20b8f1b61
 2017-03-09 09:19:34,666 INFO  [AmzoneHomePageAbstrat] password  label is present or not 
 2017-03-09 09:19:35,497 INFO  [AmzoneHomePageAbstrat] send password value to password eddit pages 
 2017-03-09 09:19:41,047 INFO  [AmzoneHomePageAbstrat] click sighIn buttion! 
+2017-03-09 09:36:36,149 INFO  [AmzoneHomePageAbstrat] move to locater of you oder! 
+2017-03-09 09:36:36,913 INFO  [AmzoneHomePageAbstrat] succ to move mouse on you oder locater. 
+2017-03-09 09:36:36,960 WARN  [AmzoneHomePageAbstrat] org.openqa.selenium.NoSuchWindowException: Window not found. The browser window may have been closed.
+Command duration or timeout: 19 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'Tapanas-MacBook-Pro.local', ip: '192.168.0.102', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.3', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=40.0, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ffdd42f7-d5ad-d840-a2b9-775a93d0e591
+*** Element info: {Using=xpath, value=//div[@id='nav-flyout-ya-signin']//descendant::span[text()='Sign in']} 
+2017-03-09 09:36:47,007 WARN  [AmzoneHomePageAbstrat] get exception in signinAmzone 
