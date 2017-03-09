@@ -8,10 +8,10 @@
 	<groupId>com.amzone.automationScript</groupId>
 	<artifactId>amzone</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<!-- <packaging>jar</packaging> -->
 
-	<name>amzone</name>
-	<url>http://maven.apache.org</url>
+<!-- 	<name>amzone</name>
+	<url>http://maven.apache.org</url> -->
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
