@@ -205,6 +205,13 @@ public class AmzoneUtili extends AmzoneAbstrat
 		String newFileNamePath =  directory.getCanonicalPath()+"/target/surefire-reports/screenShots/"+ getFileName(nameTest);
 		return newFileNamePath;
 	}
+	
+	public void getAmzoneMoveToElement(WebElement movMouseToElement)
+	{
+		
+		Actions action = new Actions(AmozoneDriver.driver);
+		action.moveToElement(movMouseToElement).perform();
+	}
 
 
 }

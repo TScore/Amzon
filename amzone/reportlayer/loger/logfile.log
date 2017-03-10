@@ -275,3 +275,45 @@ Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true
 Session ID: ffdd42f7-d5ad-d840-a2b9-775a93d0e591
 *** Element info: {Using=xpath, value=//div[@id='nav-flyout-ya-signin']//descendant::span[text()='Sign in']} 
 2017-03-09 09:36:47,007 WARN  [AmzoneHomePageAbstrat] get exception in signinAmzone 
+2017-03-10 00:10:18,043 INFO  [AmzoneHomePageAbstrat] move to locater of you oder! 
+2017-03-10 00:10:18,595 INFO  [AmzoneHomePageAbstrat] succ to move mouse on you oder locater. 
+2017-03-10 00:10:18,925 INFO  [AmzoneHomePageAbstrat] click sign in button of amzone webpage 
+2017-03-10 00:10:18,925 INFO  [AmzoneHomePageAbstrat] findout page of login is displaying or not? 
+2017-03-10 00:10:20,330 INFO  [AmzoneHomePageAbstrat] Login page>log in label is :Login 
+2017-03-10 00:10:20,330 INFO  [AmzoneHomePageAbstrat] comper excepted and actual value 
+2017-03-10 00:10:20,443 INFO  [AmzoneHomePageAbstrat] excepted and actual value sucessfuly comper 
+2017-03-10 00:10:20,443 INFO  [AmzoneHomePageAbstrat] comper email id label is present or not 
+2017-03-10 00:10:20,723 INFO  [AmzoneHomePageAbstrat] emailIdLabel name is:Email or mobile phone number 
+2017-03-10 00:10:20,723 INFO  [AmzoneHomePageAbstrat] email id label >excepted and actual value sucessfuly comper 
+2017-03-10 00:10:20,985 INFO  [AmzoneHomePageAbstrat] send user email adress to amzone! 
+2017-03-10 00:10:20,985 INFO  [AmzoneHomePageAbstrat] password  label is present or not 
+2017-03-10 00:10:21,321 INFO  [AmzoneHomePageAbstrat] send password value to password eddit pages 
+2017-03-10 00:10:25,935 INFO  [AmzoneHomePageAbstrat] click sighIn buttion! 
+2017-03-10 23:35:42,714 INFO  [AmzoneHomePageAbstrat] move to locater of you oder! 
+2017-03-10 23:35:43,010 INFO  [AmzoneHomePageAbstrat] succ to move mouse on you oder locater. 
+2017-03-10 23:35:43,270 INFO  [AmzoneHomePageAbstrat] click sign in button of amzone webpage 
+2017-03-10 23:35:43,270 INFO  [AmzoneHomePageAbstrat] findout page of login is displaying or not? 
+2017-03-10 23:35:44,823 INFO  [AmzoneHomePageAbstrat] Login page>log in label is :Login 
+2017-03-10 23:35:44,823 INFO  [AmzoneHomePageAbstrat] comper excepted and actual value 
+2017-03-10 23:35:44,836 INFO  [AmzoneHomePageAbstrat] excepted and actual value sucessfuly comper 
+2017-03-10 23:35:44,836 INFO  [AmzoneHomePageAbstrat] comper email id label is present or not 
+2017-03-10 23:35:44,860 INFO  [AmzoneHomePageAbstrat] emailIdLabel name is:Email or mobile phone number 
+2017-03-10 23:35:44,860 INFO  [AmzoneHomePageAbstrat] email id label >excepted and actual value sucessfuly comper 
+2017-03-10 23:35:45,069 INFO  [AmzoneHomePageAbstrat] send user email adress to amzone! 
+2017-03-10 23:35:45,069 INFO  [AmzoneHomePageAbstrat] password  label is present or not 
+2017-03-10 23:35:45,420 INFO  [AmzoneHomePageAbstrat] send password value to password eddit pages 
+2017-03-10 23:35:49,898 INFO  [AmzoneHomePageAbstrat] click sighIn buttion! 
+2017-03-10 23:42:40,556 INFO  [AmzoneHomePageAbstrat] move to locater of you oder! 
+2017-03-10 23:42:41,078 INFO  [AmzoneHomePageAbstrat] succ to move mouse on you oder locater. 
+2017-03-10 23:42:41,380 INFO  [AmzoneHomePageAbstrat] click sign in button of amzone webpage 
+2017-03-10 23:42:41,380 INFO  [AmzoneHomePageAbstrat] findout page of login is displaying or not? 
+2017-03-10 23:42:42,633 WARN  [AmzoneHomePageAbstrat] org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//h1[@class='a-spacing-small']"}
+Command duration or timeout: 992 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'Tapanas-MacBook-Pro.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.3', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=40.0, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: fa147e6c-d67e-1549-bfeb-f7ad9ff9b8a5
+*** Element info: {Using=xpath, value=//h1[@class='a-spacing-small']} 
+2017-03-10 23:42:52,755 WARN  [AmzoneHomePageAbstrat] get exception in signinAmzone 

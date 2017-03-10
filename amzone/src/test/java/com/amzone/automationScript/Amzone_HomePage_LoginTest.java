@@ -72,7 +72,7 @@ public class Amzone_HomePage_LoginTest  extends AmzoneHomePageAbstrat  {
 	@AfterClass
 	public void closeBrowser()
 	{
-		AmozoneDriver.driver.quit();
+		AmozoneDriver.driver.close();;
 	}
 
 
